@@ -1,2 +1,1 @@
-# Reejemplo
-# Nuevorepositorio
+#   Primer examen parcial
